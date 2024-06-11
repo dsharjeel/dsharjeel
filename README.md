@@ -1,8 +1,8 @@
 ## Hi there I'm Danish 👋
 
 # 💫 About Me:
-I'm a web sorcerer at Maxcore Technologies.<br>
-Personally trained by the best professors at Hogwarts in conjuring web apps with a sprinkle of code and a dash of creativity. Proficient in the ancient languages of Javascript, Typescript, and Python. <br>I was never afraid of getting my hands dirty in the terminal, and I got a knack for turning complex problems into elegant solutions.
+Hi there, I'm Danish! 👋  I'm a full-stack developer at Maxcore Technologies, passionate about building captivating web experiences. Trained in the "magic" of JavaScript, TypeScript, and Python, I conjure up elegant solutions to complex problems with a dash of creativity. <br>
+I'm not afraid to get my hands dirty in the terminal, and I have a knack for transforming code into sleek, functional web applications. I thrive on continuous learning and staying ahead of the curve in the ever-evolving world of technology.
 
 
 ## 🌐 Socials:
@@ -16,5 +16,3 @@ Personally trained by the best professors at Hogwarts in conjuring web apps with
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
