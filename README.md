@@ -1,7 +1,7 @@
 ## Hi there I'm Danish 👋
 
 # 💫 About Me:
-Hi there, I'm Danish! 👋  I'm a full-stack developer at Maxcore Technologies, passionate about building captivating web experiences. Trained in the "magic" of JavaScript, TypeScript, and Python, I conjure up elegant solutions to complex problems with a dash of creativity. <br>
+I'm a full-stack developer at Maxcore Technologies, passionate about building captivating web experiences. Trained in the "magic" of JavaScript, TypeScript, and Python, I conjure up elegant solutions to complex problems with a dash of creativity. <br>
 I'm not afraid to get my hands dirty in the terminal, and I have a knack for transforming code into sleek, functional web applications. I thrive on continuous learning and staying ahead of the curve in the ever-evolving world of technology.
 
 
