@@ -1,9 +1,7 @@
 ## Hi there I'm Danish 👋
 
 # 💫 About Me:
-I'm a full-stack developer at Maxcore Technologies, passionate about building captivating web experiences. Trained in the "magic" of JavaScript, TypeScript, and Python, I conjure up elegant solutions to complex problems with a dash of creativity. <br>
-I'm not afraid to get my hands dirty in the terminal, and I have a knack for transforming code into sleek, functional web applications. I thrive on continuous learning and staying ahead of the curve in the ever-evolving world of technology.
-
+A Full Stack Engineer & Cloud enthusiatic. My expertise are in creating scalable, high-performance web applications, building and optimizing RESTful APIs, implementing efficient database schemas, and integrating frontend components with backend systems. I develop software applications using JavaScript, Python, React, Next.js, Nodejs, Express, and MongoDB. I also hold certifications in MongoDB Development, DevOps Essentials and AI Development, with a solid foundation in cloud services and project management.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danish-sharjeel) 
