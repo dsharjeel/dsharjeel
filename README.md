@@ -1,7 +1,9 @@
 ## Hi there I'm Danish 👋
 
 # 💫 About Me:
-A Full Stack Engineer & Cloud enthusiatic. My expertise are in creating scalable, high-performance web applications, building and optimizing RESTful APIs, implementing efficient database schemas, and integrating frontend components with backend systems. I develop software applications using JavaScript, Python, React, Next.js, Nodejs, Express, and MongoDB. I also hold certifications in MongoDB Development, DevOps Essentials and AI Development, with a solid foundation in cloud services and project management.
+A results-driven 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 with extensive experience in designing, developing, and optimizing scalable web applications and APIs. I have a robust background in 𝗣𝘆𝘁𝗵𝗼𝗻, 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, and 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, with a strong focus on backend frameworks like 𝗗𝗷𝗮𝗻𝗴𝗼, 𝗘𝘅𝗽𝗿𝗲𝘀𝘀.𝗷𝘀, 𝗡𝗲𝘀𝘁.𝗷𝘀, and 𝗙𝗮𝘀𝘁𝗔𝗣𝗜. My expertise includes database management with 𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝗦𝗤𝗟, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, and 𝗠𝘆𝗦𝗤𝗟, as well as cloud services such as 𝗔𝗪𝗦, 𝗚𝗼𝗼𝗴𝗹𝗲 𝗖𝗹𝗼𝘂𝗱, and 𝗔𝘇𝘂𝗿𝗲.
+
+I am passionate about delivering high-performance solutions that enhance user experience and drive business growth. My skill set also includes frontend technologies like 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀 and 𝗡𝗲𝘅𝘁.𝗷𝘀, enabling me to contribute to the 𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 process.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danish-sharjeel) 
